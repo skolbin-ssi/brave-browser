@@ -1,5 +1,28 @@
 # Changelog
 
+## [1.23.74](https://github.com/brave/brave-browser/releases/tag/v1.23.74)
+
+ - Added ability to disable Tab Groups through settings. ([#15453](https://github.com/brave/brave-browser/issues/15453))
+ - Fixed issue where device information was sometimes reported in User Agent string. ([#15372](https://github.com/brave/brave-browser/issues/15372))
+ - Upgraded Chromium to 90.0.4430.85. ([#15397](https://github.com/brave/brave-browser/issues/15397))
+
+## [1.23.71](https://github.com/brave/brave-ios/releases/tag/v1.23.71)
+
+ - Implemented verifiable advertiser conversions for Brave Ads. ([#13368](https://github.com/brave/brave-browser/issues/13368))
+ - Fixed CNAME adblocking breakage in certain cases. ([#14755](https://github.com/brave/brave-browser/issues/14755))
+ - Fixed Brave Shield icon being displayed in the incorrect position when using Custom Tabs. ([#9113](https://github.com/brave/brave-browser/issues/9113)) 
+ - Fixed text color to improve visuals in certain reward onboarding panels. ([#13911](https://github.com/brave/brave-browser/issues/13911)) 
+ - Upgraded Chromium to 90.0.4430.72. ([#15299](https://github.com/brave/brave-browser/issues/15299))
+
+## [1.22.72](https://github.com/brave/brave-browser/releases/tag/v1.22.72)
+
+ - Upgraded Chromium to 89.0.4389.128. ([#15270](https://github.com/brave/brave-browser/issues/15270))
+
+## [1.22.71](https://github.com/brave/brave-browser/releases/tag/v1.22.71)
+
+ - Fixed referral pings not initializing correctly. ([#15034](https://github.com/brave/brave-browser/issues/15034))
+ - Upgraded Chromium to 89.0.4389.114. ([#15030](https://github.com/brave/brave-browser/issues/15030))
+
 ## [1.22.69](https://github.com/brave/brave-browser/releases/tag/v1.22.69)
 
 - Improved canvas fingerprinting protections. ([#12069](https://github.com/brave/brave-browser/issues/12069))
