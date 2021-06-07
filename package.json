@@ -1,6 +1,6 @@
 {
   "name": "brave",
-  "version": "1.26.15",
+  "version": "1.27.43",
   "description": "Next generation Brave browser for macOS, Windows, Linux, and eventually Android",
   "homepage": "https://github.com/brave/brave-browser#readme",
   "bugs": {
@@ -231,7 +231,7 @@
     "projects": {
       "chrome": {
         "dir": "src",
-        "tag": "91.0.4472.38",
+        "tag": "91.0.4472.77",
         "repository": {
           "url": "https://github.com/chromium/chromium"
         }
